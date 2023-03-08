@@ -1,0 +1,32 @@
+.link-nav :hover{
+    text-decoration: underline;
+}
+
+.form-directory input{
+    max-width: 500px;
+}
+
+.input-p{
+    padding-top: 15px;
+}
+
+.input-p input{
+    border: 2px solid black;
+}
+
+.textarea-p{
+    padding-top: 15px;
+}
+
+.textarea-p textarea{
+    border: 2px solid black;
+}
+
+.hover-a{
+    text-decoration: none;
+}
+
+.hover-a:hover{
+    text-decoration: underline;
+}
+

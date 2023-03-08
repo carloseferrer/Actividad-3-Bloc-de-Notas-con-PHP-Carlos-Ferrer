@@ -1,0 +1,27 @@
+.form-personalization{
+    margin-top: 20px;
+}
+
+.form-personalization input{
+    max-width: 300px;
+}
+
+.changecolor{
+   color: #fb8500;
+}
+
+.hover-item{
+    cursor:default;
+}
+
+.link-css{
+    text-decoration: none;
+}
+
+.link-css:hover{
+    text-decoration: underline;
+}
+
+.form-directory input{
+    max-width: 500px;
+}
